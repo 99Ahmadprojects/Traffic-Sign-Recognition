@@ -128,6 +128,10 @@ for fn in uploaded.keys():
 | MobileNetV2            | ~96%      |
 | MobileNetV2 (Fine-tuned)| ~98%     |
 
+
+<div align="center">
+  <img src="images/logo.png" alt="Result" width="200">
+
 ---
 
 ## 📈 Example Predictions
@@ -138,3 +142,5 @@ for fn in uploaded.keys():
 | 🚫 Speed Limit 50    | Speed Limit 50   |
 | ⚠️ Yield Sign        | Yield            |
 
+## Dataset
+    https://drive.google.com/drive/folders/1htRDfISpeuAzj864dWKVe5E1-RQcDr5b?usp=sharing
