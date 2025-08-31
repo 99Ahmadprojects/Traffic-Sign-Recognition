@@ -131,6 +131,7 @@ for fn in uploaded.keys():
 
 <div align="center">
   <img src="images/logo.png" alt="Result" width="200">
+</div>
 
 ---
 
