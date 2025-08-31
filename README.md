@@ -34,8 +34,8 @@ This project implements a **Traffic Sign Recognition System** using **Deep Learn
 
 Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/traffic-sign-recognition.git
-cd traffic-sign-recognition
+git clone https://github.com/99Ahmadprojects/Traffic-Sign-Recognition.git
+cd Traffic-Sign-Recognition
 ```
 
 Install dependencies:  
